@@ -1,16 +1,28 @@
-# omar_bloc
+# 🩺 Doctor App Design  
 
-A new Flutter project.
+**Doctor App** is a modern **Flutter UI Design** project for a medical appointment booking application.  
+This project focuses on delivering a clean and user-friendly interface that helps patients browse doctors and book appointments with ease.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- 🏥 Browse a list of doctors with detailed profiles  
+- 📅 Book appointments quickly and easily  
+- 🔍 Search for doctors by specialty  
+- 🎨 Simple, modern, and responsive design built with Flutter  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+- **Framework:** Flutter  
+- **Language:** Dart  
+- **IDE:** VS Code / Android Studio  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Getting Started
+To run this project locally:  
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/Eng-Nader/Doctor-App.git
